@@ -1,3 +1,5 @@
+--Lua script
+
 function init (args)
     local needs = {}
     needs["payload"] = tostring(true)
